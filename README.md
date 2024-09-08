@@ -10,10 +10,6 @@ This project provides an interactive analysis of COVID-19 cases globally and in 
 ### View the Full StoryMap:
 Check out the interactive ArcGIS StoryMap here:  
 [COVID-19: The Paramount Pandemic](https://storymaps.arcgis.com/stories/797cb0f836444605b3c54b3c0dc0a126).
-Insights:
-https://insights.arcgis.com/#/edit/8cff9356bf4b48999bce558501842446
-Dashboard:
-https://www.arcgis.com/apps/dashboards/5daf0b52224d4570a214a55309850097
 
 ## How to Use:
 - Visit the StoryMap link to interact with the live data visualizations.
